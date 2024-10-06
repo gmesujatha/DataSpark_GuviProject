@@ -1,0 +1,49 @@
+Category,age_range,Totalquantity
+"TV and Video",11-20,827
+"Music, Movies and Audio Books",11-20,1993
+"Cell phones",11-20,2176
+Audio,11-20,1704
+"Home Appliances",11-20,1405
+"Games and Toys",11-20,1523
+Computers,11-20,2984
+"Cameras and camcorders",11-20,1222
+"Cameras and camcorders",21-30,2643
+Computers,21-30,6542
+"Cell phones",21-30,4609
+"TV and Video",21-30,1745
+Audio,21-30,3541
+"Home Appliances",21-30,2860
+"Music, Movies and Audio Books",21-30,4176
+"Games and Toys",21-30,3409
+Audio,31-40,3478
+"TV and Video",31-40,1682
+"Cameras and camcorders",31-40,2685
+"Music, Movies and Audio Books",31-40,4231
+Computers,31-40,6607
+"Games and Toys",31-40,3333
+"Cell phones",31-40,4829
+"Home Appliances",31-40,2723
+"Music, Movies and Audio Books",41-50,4453
+"Games and Toys",41-50,3329
+Audio,41-50,3373
+"Cell phones",41-50,4590
+"Cameras and camcorders",41-50,2428
+Computers,41-50,6346
+"Home Appliances",41-50,2747
+"TV and Video",41-50,1610
+"TV and Video",51-60,1488
+"Home Appliances",51-60,2715
+Audio,51-60,3501
+"Cell phones",51-60,4585
+Computers,51-60,6337
+"Cameras and camcorders",51-60,2690
+"Games and Toys",51-60,3564
+"Music, Movies and Audio Books",51-60,4167
+"Cell phones",60+,10688
+Audio,60+,7893
+"TV and Video",60+,3884
+Computers,60+,15335
+"Cameras and camcorders",60+,5941
+"Home Appliances",60+,5951
+"Music, Movies and Audio Books",60+,9782
+"Games and Toys",60+,7433

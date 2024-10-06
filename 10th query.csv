@@ -1,0 +1,33 @@
+Color,Gender,purchasecount
+Black,Male,26630
+Black,Female,25759
+Silver,Male,18871
+Silver,Female,18664
+White,Male,18267
+White,Female,18115
+Grey,Male,7648
+Grey,Female,7226
+Blue,Male,6235
+Red,Female,6142
+Red,Male,5880
+Blue,Female,5579
+Pink,Male,3213
+Brown,Male,3190
+Pink,Female,3122
+Brown,Female,3049
+Gold,Male,3023
+Gold,Female,3005
+Yellow,Female,2600
+Yellow,Male,2596
+Green,Female,2053
+Green,Male,2039
+Orange,Male,1269
+Orange,Female,1138
+Purple,Female,494
+Purple,Male,472
+"Silver Grey",Male,325
+Azure,Male,324
+Azure,Female,316
+"Silver Grey",Female,300
+Transparent,Female,132
+Transparent,Male,81

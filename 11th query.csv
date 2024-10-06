@@ -1,0 +1,49 @@
+Category,age_range,total_profit,Totalquantity
+"Music, Movies and Audio Books",11-20,124163.37,1993
+"TV and Video",11-20,202095.16,827
+Computers,11-20,726052.7,2984
+"Games and Toys",11-20,25789.76,1523
+"Cameras and camcorders",11-20,307644.77,1222
+"Home Appliances",11-20,466610.93,1405
+"Cell phones",11-20,250024.1,2176
+Audio,11-20,132313.38,1704
+"Games and Toys",21-30,59641.34,3409
+"Music, Movies and Audio Books",21-30,285299.48,4176
+Audio,21-30,269999.47,3541
+"Home Appliances",21-30,979966.29,2860
+"Cell phones",21-30,489110.64,4609
+"Cameras and camcorders",21-30,586646.95,2643
+"TV and Video",21-30,562088.84,1745
+Computers,21-30,1649252.93,6542
+"Games and Toys",31-40,60271.41,3333
+"Cameras and camcorders",31-40,600135.8,2685
+"Music, Movies and Audio Books",31-40,280758.8,4231
+"Cell phones",31-40,521254.4,4829
+"Home Appliances",31-40,901468.11,2723
+Audio,31-40,273716.61,3478
+Computers,31-40,1694246.4,6607
+"TV and Video",31-40,510743.05,1682
+Computers,41-50,1644589.97,6346
+Audio,41-50,265744.87,3373
+"Cell phones",41-50,507483.3,4590
+"Cameras and camcorders",41-50,548933.18,2428
+"Music, Movies and Audio Books",41-50,306460.33,4453
+"Home Appliances",41-50,995247.19,2747
+"Games and Toys",41-50,54270.09,3329
+"TV and Video",41-50,523971.37,1610
+"Cameras and camcorders",51-60,581916.68,2690
+Computers,51-60,1612583.66,6337
+"Music, Movies and Audio Books",51-60,256305.39,4167
+"TV and Video",51-60,487104.23,1488
+Audio,51-60,275104.73,3501
+"Home Appliances",51-60,897865.68,2715
+"Games and Toys",51-60,66011.73,3564
+"Cell phones",51-60,497826.8,4585
+"Cell phones",60+,1197155.64,10688
+Audio,60+,599033.98,7893
+"Cameras and camcorders",60+,1282972.9,5941
+Computers,60+,3859939.89,15335
+"Music, Movies and Audio Books",60+,646621.39,9782
+"Games and Toys",60+,126813.24,7433
+"Home Appliances",60+,2027396.71,5951
+"TV and Video",60+,1205477.96,3884

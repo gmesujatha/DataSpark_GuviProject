@@ -1,0 +1,89 @@
+Brand,Currency,profit,Country
+"Southridge Video",AUD,106147.33,Australia
+"The Phone Company",AUD,190794.75,Australia
+Contoso,AUD,439322.58,Australia
+Fabrikam,AUD,306183.32,Australia
+"Adventure Works",AUD,478644.14,Australia
+Proseware,AUD,167164.26,Australia
+"Northwind Traders",AUD,34107.86,Australia
+"Wide World Importers",AUD,331395.64,Australia
+"Tailspin Toys",AUD,22370.04,Australia
+"A. Datum",AUD,71382.58,Australia
+Litware,AUD,82439.2,Australia
+"Adventure Works",CAD,735838.57,Canada
+"Tailspin Toys",CAD,37815.17,Canada
+"Northwind Traders",CAD,77982.18,Canada
+"A. Datum",CAD,95592.27,Canada
+Contoso,CAD,727156.18,Canada
+Fabrikam,CAD,438042.85,Canada
+Proseware,CAD,269021.77,Canada
+"Southridge Video",CAD,173890.52,Canada
+"Wide World Importers",CAD,555355.48,Canada
+Litware,CAD,204928.42,Canada
+"The Phone Company",CAD,309915.87,Canada
+Contoso,EUR,553966.56,Germany
+"The Phone Company",EUR,244772.06,Germany
+"Southridge Video",EUR,120986.77,Germany
+Fabrikam,EUR,301979.28,Germany
+"Northwind Traders",EUR,54473.78,Germany
+Litware,EUR,114782.77,Germany
+"Adventure Works",EUR,615594.72,Germany
+"Wide World Importers",EUR,511162.19,Germany
+"Tailspin Toys",EUR,29540.44,Germany
+Proseware,EUR,193114.7,Germany
+"A. Datum",EUR,69502.44,Germany
+"The Phone Company",EUR,71854.26,France
+Fabrikam,EUR,102596.97,France
+"Tailspin Toys",EUR,10794.2,France
+"A. Datum",EUR,20776.63,France
+Contoso,EUR,156822.88,France
+"Southridge Video",EUR,33858.86,France
+"Adventure Works",EUR,162248.41,France
+"Northwind Traders",EUR,9793.25,France
+Proseware,EUR,58864.08,France
+"Wide World Importers",EUR,135147.52,France
+Litware,EUR,25521.73,France
+"Adventure Works",EUR,334517.65,Italy
+"Southridge Video",EUR,51518.38,Italy
+Contoso,EUR,245258.42,Italy
+"Wide World Importers",EUR,198120.28,Italy
+Proseware,EUR,61459.56,Italy
+"Tailspin Toys",EUR,20442.64,Italy
+"The Phone Company",EUR,120318.92,Italy
+Fabrikam,EUR,142620.61,Italy
+"A. Datum",EUR,41305.3,Italy
+"Northwind Traders",EUR,24999.19,Italy
+Litware,EUR,42272.27,Italy
+"Adventure Works",EUR,232853.74,Netherlands
+"The Phone Company",EUR,87449.22,Netherlands
+Fabrikam,EUR,112055.29,Netherlands
+Litware,EUR,50301.8,Netherlands
+Contoso,EUR,206504.46,Netherlands
+"Wide World Importers",EUR,170191.92,Netherlands
+Proseware,EUR,64345.48,Netherlands
+"Southridge Video",EUR,42080.02,Netherlands
+"Tailspin Toys",EUR,12983.4,Netherlands
+"A. Datum",EUR,25374.56,Netherlands
+"The Phone Company",GBP,303924.43,"United Kingdom"
+"Adventure Works",GBP,683307.01,"United Kingdom"
+Contoso,GBP,605018.3,"United Kingdom"
+Fabrikam,GBP,366241.95,"United Kingdom"
+"Southridge Video",GBP,170876.65,"United Kingdom"
+"Tailspin Toys",GBP,33913.03,"United Kingdom"
+Proseware,GBP,152903.69,"United Kingdom"
+"Wide World Importers",GBP,534157.51,"United Kingdom"
+Litware,GBP,161712.78,"United Kingdom"
+"A. Datum",GBP,83449.29,"United Kingdom"
+"Northwind Traders",GBP,84418.82,"United Kingdom"
+Contoso,USD,3349131.28,"United States"
+"Adventure Works",USD,3623153.47,"United States"
+Litware,USD,861062.94,"United States"
+"Wide World Importers",USD,2861866.43,"United States"
+Fabrikam,USD,2286541.17,"United States"
+"Southridge Video",USD,811564.17,"United States"
+"Tailspin Toys",USD,201209.57,"United States"
+Proseware,USD,986723.49,"United States"
+"A. Datum",USD,474024.25,"United States"
+"Northwind Traders",USD,339047.47,"United States"
+"The Phone Company",USD,1696599.81,"United States"
+"Northwind Traders",EUR,14658.75,Netherlands
